@@ -8,7 +8,7 @@ This theme was built with [Base16 Builder Ruby](https://github.com/obahareth/bas
 
 ## Installation
 
-Select one of the many color schemes available for [base16](http://chriskempson.com/projects/base16), look for the corresponding XML file in the colors folder and merge that with your `console.xml`.
+Select one of the many color schemes available for [base16](http://chriskempson.com/projects/base16), look for the corresponding XML file in the colors folder and **merge** that with your `console.xml`. This means, that you should keep all existing attributes from your current `console.xml` and just replace the values for `r`, `g`, and `b` for the various colors.
 
 Note, that if you would like to use opacity and/or a background image while still using a Base16 color-scheme, you can do so. For this, simply use the above described `console.xml`, and _afterwards_ setup the opacity/background image.
 
