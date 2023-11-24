@@ -1,3 +1,7 @@
+# Archivation notice
+
+Archiving this project. I suggest to use [Windows Terminal](https://github.com/microsoft/terminal) (with [available schemes](https://github.com/wuqs-net/base16-windows-terminal)) instead of Console2.
+
 # Base16 ConsoleZ
 
 Supports [ConsoleZ](https://github.com/cbucher/console), focused on integrated usage with [Cygwin](https://www.cygwin.com).
